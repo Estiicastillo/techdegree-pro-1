@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/dj.jpeg') no-repeat top center ;
+  background: url('images/estii3.jpeg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -86,7 +86,7 @@ header .profile-image:hover {
 }
 .location {
   background-color: #222;
-  color: yellow;
+  color: orange;
 }
 .card {
   margin: 30px;
@@ -103,15 +103,15 @@ header .profile-image:hover {
 }
 
 ul.skills {
-  padding: 0;
+  padding: 2;
   text-align: center;
 }
 
 .skills li {
-  border-radius: 6px;
+  border-radius: 4px;
   display: inline-block;
   background: #ff9904;
-  color: white;
+  color: red;
   padding: 5px 10px;
   margin: 2px;
 }
